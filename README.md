@@ -22,5 +22,5 @@ You can use a file named aliases.yml in your vault root to broaden the title mat
 
 ## Notes
 
-This plugin is fork version of https://github.com/perkinsben/obs_tools
-- edited for bulk interlinking not for single file
+- the plugin is fork version of https://github.com/perkinsben/obs_tools
+- script was edited for adding bulk interlinking capabilities
