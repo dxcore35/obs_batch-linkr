@@ -1,5 +1,3 @@
-# pip install pyperclip pyyaml
-import pyperclip
 import yaml
 import sys
 import os
@@ -102,8 +100,5 @@ for page_title in page_titles:
         # lowercase our updated text for the next round of search
         clip_low = clip_txt.lower()        
 
-# send the linked text to the clipboard            
-pyperclip.copy(clip_txt)
-#print(clip_txt)
 print('----------------------')
-print('linked text copied to clipboard')
+print('Your vault is interlinked')
