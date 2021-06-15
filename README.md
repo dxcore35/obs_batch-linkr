@@ -10,7 +10,7 @@ This script does the following:
 ## Requirements
 
 * Python 3 + pip
-* [PyYAML] ```pip install pyyaml```
+* PyYAML ```pip install pyyaml```
 
 ## Running
 
