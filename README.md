@@ -1,5 +1,7 @@
 # Batch Obsidian Forward Linker
 
+![Logo](logo.jpg)
+
 This script does the following:
 
 - Scans your vault location recursively for .md files and builds a list of note titles
